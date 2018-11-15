@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2018.2/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.2/system/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_thorium-core-services.-485184317.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Thorium.Core.Services" t="IncludeRecursive">
+        <e p="Abstractions" t="Include">
+          <e p="IPlatformHandler.cs" t="Include" />
+          <e p="IServiceConfiguration.cs" t="Include" />
+          <e p="IServiceStrap.cs" t="Include" />
+        </e>
+        <e p="CliOptions.cs" t="Include" />
+        <e p="ContainerFactory.cs" t="Include" />
+        <e p="DefaultEndpointConfigurationFactory.cs" t="Include" />
+        <e p="DefaultPlatformHandler.cs" t="Include" />
+        <e p="Platform" t="Include">
+          <e p="UnixSignalHandler.cs" t="Include" />
+        </e>
+        <e p="ServiceRunner.cs" t="Include" />
+        <e p="Thorium.Core.Services.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="Thorium.Core.Services.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="thorium-core-services.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
